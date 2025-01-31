@@ -1,4 +1,4 @@
-# Cock-Game
+# Cock-Game - https://santhoshkumar2102.github.io/Cock-Game/
 Lane Road Game 🛣️🎮
 
 A fun and interactive lane road game built entirely using HTML, CSS, and JavaScript! 🐔🥚🏍️
